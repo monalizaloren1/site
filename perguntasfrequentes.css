@@ -1,0 +1,22 @@
+body{
+    background-color: 350048;
+    text-align: center;
+    color: white;
+}
+
+#fotoinicial{
+    width: 100%;
+}
+#titulodooquefazumprogramador{
+    background-color: white;
+}
+.cormaior{
+    color: white;
+    text-align: left;
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.cormenor{
+    color: white;
+    text-align: left;
+}

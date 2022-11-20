@@ -1,0 +1,32 @@
+#caixaredonda{
+    color:white;
+	width:400px;
+	height:400px;
+	background-color:#350048;
+	border-radius: 1000px;
+    display: inline-block;
+    text-align:center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+	}
+    #caixaredonda2{
+        width:400px;
+        height:400px;
+        background-color:#501467;
+        border-radius: 1000px;
+        display: inline-block;
+        text-align: center;
+        color:white;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+        #caixaredonda3{
+            width:400px;
+            height:400px;
+            background-color:#672780;
+            border-radius: 1000px;
+            display: inline-block;
+            text-align: center;
+            color: white;
+            font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            }
+           

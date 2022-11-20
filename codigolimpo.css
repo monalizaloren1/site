@@ -1,0 +1,29 @@
+p{
+    color:white;
+    width: 60%;
+}
+
+body{
+    background-color: 350048;
+    text-align: center;
+    color: white;
+   
+}
+
+#fotoinicial{
+    width: 100%;
+}
+#titulodepython{
+    background-color: white;
+}
+h3{
+    color: white;
+}
+#titulo2depython{
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 50px;
+}
+#titulodooquefazumprogramador{
+    background-color: white;
+}
